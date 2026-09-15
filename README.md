@@ -17,7 +17,7 @@
     
 <br/>
     
-<h2>🔥 AI Agent 开发 × 面试求职 = 一站式解决方案</h2>
+<h2>Agent = Harness + Model</h2>
     
 <p>
         <strong>对标 JavaGuide 的 AI Agent 学习指南</strong><br/>

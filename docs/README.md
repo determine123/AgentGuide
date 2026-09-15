@@ -222,5 +222,6 @@ topic:
 | [AI Agent 开发工程师学习路线图（工程落地版）](./05-roadmaps/learning-roadmap-development.md) | 路线图 | 已发布 | 通用 | 面试求职、Agent、项目实战 |
 | [学习路线导航](./05-roadmaps/README.md) | 入口页 | 已发布 | 通用 | 面试求职、Agent、具身智能 |
 | [2026 值得重投入的 AI 研究方向：子方向全展开](./06-research-frontiers/01-ai-research-directions-expanded.md) | 研究专题 | 已发布 | 高阶 | 科研、Agent、多模态 |
+| [RSI 递归自我改进：论文、开源、评测与业界全景（2026-09）](./06-research-frontiers/02-recursive-self-improvement-landscape.md) | 研究专题 | 已发布 | 进阶 | Agent、科研、模型训练 |
 | [从前沿 Lab JD 与战略看 2026 年值得重投入的 AI 研究方向](./06-research-frontiers/README.md) | 研究专题 | 已发布 | 通用 | 科研、Agent、基础模型 |
 <!-- AUTO-GENERATED-CONTENT:END -->
